@@ -1,0 +1,14 @@
+D:\OOP\oopLAB\Lab\LAB3\Shiritori\bin\Debug\Shiritori.exe.config
+D:\OOP\oopLAB\Lab\LAB3\Shiritori\bin\Debug\Shiritori.exe
+D:\OOP\oopLAB\Lab\LAB3\Shiritori\bin\Debug\Shiritori.pdb
+D:\OOP\oopLAB\Lab\LAB3\Shiritori\obj\Debug\Shiritori.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\Lab\LAB3\Shiritori\obj\Debug\Shiritori.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\Lab\LAB3\Shiritori\obj\Debug\Shiritori.exe
+D:\OOP\oopLAB\Lab\LAB3\Shiritori\obj\Debug\Shiritori.pdb
+D:\OOP\oopLAB\pd\Shiritori\obj\Debug\Shiritori.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\pd\Shiritori\obj\Debug\Shiritori.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\pd\Shiritori\obj\Debug\Shiritori.exe
+D:\OOP\oopLAB\pd\Shiritori\obj\Debug\Shiritori.pdb
+D:\OOP\oopLAB\pd\Shiritori\bin\Debug\Shiritori.exe.config
+D:\OOP\oopLAB\pd\Shiritori\bin\Debug\Shiritori.exe
+D:\OOP\oopLAB\pd\Shiritori\bin\Debug\Shiritori.pdb

@@ -1,0 +1,17 @@
+E:\OOP\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+E:\OOP\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+E:\OOP\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+E:\OOP\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+E:\OOP\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+E:\OOP\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+E:\OOP\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\OOP\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\OOP\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\OOP\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\OOP\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\OOP\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\OOP\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\OOP\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\OOP\ConsoleApp4\bin\Debug\EZInput.dll
+D:\OOP\ConsoleApp4\bin\Debug\EZInput.xml
+D:\OOP\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete

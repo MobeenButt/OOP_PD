@@ -1,0 +1,10 @@
+D:\OOP\oopLAB\pd\Game\bin\Debug\ConsoleApp4.exe.config
+D:\OOP\oopLAB\pd\Game\bin\Debug\ConsoleApp4.exe
+D:\OOP\oopLAB\pd\Game\bin\Debug\ConsoleApp4.pdb
+D:\OOP\oopLAB\pd\Game\bin\Debug\EZInput.dll
+D:\OOP\oopLAB\pd\Game\bin\Debug\EZInput.xml
+D:\OOP\oopLAB\pd\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\pd\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\pd\Game\obj\Debug\Game.csproj.CopyComplete
+D:\OOP\oopLAB\pd\Game\obj\Debug\ConsoleApp4.exe
+D:\OOP\oopLAB\pd\Game\obj\Debug\ConsoleApp4.pdb

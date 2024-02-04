@@ -1,0 +1,7 @@
+D:\OOP\oopLAB\pd\New_Calculator\bin\Debug\New_Calculator.exe.config
+D:\OOP\oopLAB\pd\New_Calculator\bin\Debug\New_Calculator.exe
+D:\OOP\oopLAB\pd\New_Calculator\bin\Debug\New_Calculator.pdb
+D:\OOP\oopLAB\pd\New_Calculator\obj\Debug\New_Calculator.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\pd\New_Calculator\obj\Debug\New_Calculator.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\pd\New_Calculator\obj\Debug\New_Calculator.exe
+D:\OOP\oopLAB\pd\New_Calculator\obj\Debug\New_Calculator.pdb

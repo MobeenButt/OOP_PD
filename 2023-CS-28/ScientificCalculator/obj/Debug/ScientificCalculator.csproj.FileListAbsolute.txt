@@ -1,0 +1,7 @@
+D:\OOP\oopLAB\Lab\LAB3\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+D:\OOP\oopLAB\Lab\LAB3\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+D:\OOP\oopLAB\Lab\LAB3\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+D:\OOP\oopLAB\Lab\LAB3\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\Lab\LAB3\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\Lab\LAB3\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+D:\OOP\oopLAB\Lab\LAB3\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
