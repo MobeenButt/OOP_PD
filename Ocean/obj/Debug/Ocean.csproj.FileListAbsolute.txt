@@ -1,0 +1,7 @@
+D:\OOP\oopLAB\pd\Week4\Ocean\bin\Debug\Ocean.exe.config
+D:\OOP\oopLAB\pd\Week4\Ocean\bin\Debug\Ocean.exe
+D:\OOP\oopLAB\pd\Week4\Ocean\bin\Debug\Ocean.pdb
+D:\OOP\oopLAB\pd\Week4\Ocean\obj\Debug\Ocean.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\pd\Week4\Ocean\obj\Debug\Ocean.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\pd\Week4\Ocean\obj\Debug\Ocean.exe
+D:\OOP\oopLAB\pd\Week4\Ocean\obj\Debug\Ocean.pdb
