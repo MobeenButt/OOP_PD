@@ -1,0 +1,7 @@
+D:\OOP\oopLAB\pd\Week4\MagicalDualPlay\bin\Debug\MagicalDualPlay.exe.config
+D:\OOP\oopLAB\pd\Week4\MagicalDualPlay\bin\Debug\MagicalDualPlay.exe
+D:\OOP\oopLAB\pd\Week4\MagicalDualPlay\bin\Debug\MagicalDualPlay.pdb
+D:\OOP\oopLAB\pd\Week4\MagicalDualPlay\obj\Debug\MagicalDualPlay.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\pd\Week4\MagicalDualPlay\obj\Debug\MagicalDualPlay.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\pd\Week4\MagicalDualPlay\obj\Debug\MagicalDualPlay.exe
+D:\OOP\oopLAB\pd\Week4\MagicalDualPlay\obj\Debug\MagicalDualPlay.pdb
