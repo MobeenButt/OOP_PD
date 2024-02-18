@@ -1,0 +1,7 @@
+D:\OOP\oopLAB\pd\Week4\MagicalCard\bin\Debug\MagicalCard.exe.config
+D:\OOP\oopLAB\pd\Week4\MagicalCard\bin\Debug\MagicalCard.exe
+D:\OOP\oopLAB\pd\Week4\MagicalCard\bin\Debug\MagicalCard.pdb
+D:\OOP\oopLAB\pd\Week4\MagicalCard\obj\Debug\MagicalCard.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\pd\Week4\MagicalCard\obj\Debug\MagicalCard.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\pd\Week4\MagicalCard\obj\Debug\MagicalCard.exe
+D:\OOP\oopLAB\pd\Week4\MagicalCard\obj\Debug\MagicalCard.pdb
