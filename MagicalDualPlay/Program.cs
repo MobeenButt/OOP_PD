@@ -14,10 +14,10 @@ namespace MagicalDualPlay
 
             while (choice != 6)
             {
-                Console.WriteLine("Magical Duel Menu:");
+                Console.WriteLine("\t\tMagical_Dual\t\t\n");
                 Console.WriteLine("1.Add Player");
                 Console.WriteLine("2.Add Skill Statistics");
-                Console.WriteLine("3.Display Player Info");
+                Console.WriteLine("3.Player Info");
                 Console.WriteLine("4.Learn a Skill");
                 Console.WriteLine("5.Attack");
                 Console.WriteLine("6.Exit");
@@ -28,7 +28,7 @@ namespace MagicalDualPlay
                 if (choice == 1)
                 {
                     Console.WriteLine("Enter Player details: ");
-                    P.Add(CreatePlayer());
+                    P.Add(CREATEPLAYER());
                     Console.WriteLine("Player Added Successfully!");
                 }
                 else if (choice == 2)
@@ -88,13 +88,13 @@ namespace MagicalDualPlay
                 }
                 else if (choice == 5)
                 {
-                    Console.WriteLine("Choose the attacking Player:");
+                    Console.WriteLine("Choose the Attacking Player:");
                     Console.WriteLine("Player Information:");
                     foreach (var player in P)
                     {
                         Console.WriteLine($"Name: {player.name}, Health: {player.hp}, Energy: {player.energy}, Armor: {player.armor}");
                     }
-                    Console.Write("Enter the name of the attacking Player: ");
+                    Console.Write("Enter the Name of the Attacking Player: ");
                     string attackerName = Console.ReadLine();
                     Player attacker = null;
                     foreach (var p in P)
@@ -107,13 +107,13 @@ namespace MagicalDualPlay
                     }
                     if (attacker != null)
                     {
-                        Console.WriteLine("Choose the target player:");
+                        Console.WriteLine("Choose the Target Player:");
                         Console.WriteLine("Player Information:");
                         foreach (var player in P)
                         {
                             Console.WriteLine($"Name: {player.name}, Health: {player.hp}, Energy: {player.energy}, Armor: {player.armor}");
                         }
-                        Console.Write("Enter the name of the target Player: ");
+                        Console.Write("Enter the name of the Target Player: ");
                         string targetName = Console.ReadLine();
                         Player target = null;
                         foreach (var p in P)
@@ -135,31 +135,31 @@ namespace MagicalDualPlay
                     }
                     else
                     {
-                        Console.WriteLine($"Attacking Player '{attackerName}' not found.");
+                        Console.WriteLine($"Attack's Player '{attackerName}' not found.");
                     }
                 }
                 else if (choice == 6)
                 {
-                    Console.WriteLine("Exiting Program. Goodbye!");
+                    Console.WriteLine("Exiting Program...");
                 }
                 else
                 {
-                    Console.WriteLine("Invalid choice!Please try again...");
+                    Console.WriteLine("Invalid Choice!");
                 }
             }
         }
-        static Player CreatePlayer()
+        static Player CREATEPLAYER()
         {
-            Console.Write("Enter Player's name: ");
+            Console.Write("Enter Player's Name: ");
             string name = Console.ReadLine();
 
-            Console.Write("Enter Player's health: ");
+            Console.Write("Enter Player's Health: ");
             int health = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter Player's energy: ");
+            Console.Write("Enter Player's Energy: ");
             int energy = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter Player's armor: ");
+            Console.Write("Enter Player's Armor: ");
             int armor = int.Parse(Console.ReadLine());
 
             return new Player(name, health, energy, armor);
@@ -167,22 +167,22 @@ namespace MagicalDualPlay
 
         static Stats CreateSkill()
         {
-            Console.Write("Enter Skills name: ");
+            Console.Write("Enter Skills Name: ");
             string name = Console.ReadLine();
 
-            Console.Write("Enter Skills damage: ");
+            Console.Write("Enter Skills Damage: ");
             int damage = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter Skills penetration: ");
+            Console.Write("Enter Skills Penetration: ");
             double penetration = double.Parse(Console.ReadLine());
 
-            Console.Write("Enter Skills heal: ");
+            Console.Write("Enter Skills Heal Power: ");
             int heal = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter Skills cost: ");
+            Console.Write("Enter Skills Cost: ");
             int cost = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter Skills description: ");
+            Console.Write("Enter Skills Description: ");
             string description = Console.ReadLine();
 
             return new Stats(name, damage, penetration, heal, cost, description);
