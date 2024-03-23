@@ -1,0 +1,14 @@
+D:\OOP\oopLAB\Lab\LAB10\Ch3\Ch3\bin\Debug\Ch3.exe.config
+D:\OOP\oopLAB\Lab\LAB10\Ch3\Ch3\bin\Debug\Ch3.exe
+D:\OOP\oopLAB\Lab\LAB10\Ch3\Ch3\bin\Debug\Ch3.pdb
+D:\OOP\oopLAB\Lab\LAB10\Ch3\Ch3\obj\Debug\Ch3.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\Lab\LAB10\Ch3\Ch3\obj\Debug\Ch3.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\Lab\LAB10\Ch3\Ch3\obj\Debug\Ch3.exe
+D:\OOP\oopLAB\Lab\LAB10\Ch3\Ch3\obj\Debug\Ch3.pdb
+D:\OOP\oopLAB\pd\Week10\Ch3\Ch3\bin\Debug\Ch3.exe.config
+D:\OOP\oopLAB\pd\Week10\Ch3\Ch3\bin\Debug\Ch3.exe
+D:\OOP\oopLAB\pd\Week10\Ch3\Ch3\bin\Debug\Ch3.pdb
+D:\OOP\oopLAB\pd\Week10\Ch3\Ch3\obj\Debug\Ch3.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\pd\Week10\Ch3\Ch3\obj\Debug\Ch3.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\pd\Week10\Ch3\Ch3\obj\Debug\Ch3.exe
+D:\OOP\oopLAB\pd\Week10\Ch3\Ch3\obj\Debug\Ch3.pdb

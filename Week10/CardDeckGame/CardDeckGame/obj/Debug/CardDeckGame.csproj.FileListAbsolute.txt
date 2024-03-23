@@ -1,0 +1,7 @@
+D:\OOP\oopLAB\pd\Week10\CardDeckGame\CardDeckGame\bin\Debug\CardDeckGame.exe.config
+D:\OOP\oopLAB\pd\Week10\CardDeckGame\CardDeckGame\bin\Debug\CardDeckGame.exe
+D:\OOP\oopLAB\pd\Week10\CardDeckGame\CardDeckGame\bin\Debug\CardDeckGame.pdb
+D:\OOP\oopLAB\pd\Week10\CardDeckGame\CardDeckGame\obj\Debug\CardDeckGame.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\pd\Week10\CardDeckGame\CardDeckGame\obj\Debug\CardDeckGame.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\pd\Week10\CardDeckGame\CardDeckGame\obj\Debug\CardDeckGame.exe
+D:\OOP\oopLAB\pd\Week10\CardDeckGame\CardDeckGame\obj\Debug\CardDeckGame.pdb
