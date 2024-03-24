@@ -1,0 +1,7 @@
+D:\OOP\oopLAB\pd\Week10\CHL3\CHL3\bin\Debug\CHL3.exe.config
+D:\OOP\oopLAB\pd\Week10\CHL3\CHL3\bin\Debug\CHL3.exe
+D:\OOP\oopLAB\pd\Week10\CHL3\CHL3\bin\Debug\CHL3.pdb
+D:\OOP\oopLAB\pd\Week10\CHL3\CHL3\obj\Debug\CHL3.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\pd\Week10\CHL3\CHL3\obj\Debug\CHL3.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\pd\Week10\CHL3\CHL3\obj\Debug\CHL3.exe
+D:\OOP\oopLAB\pd\Week10\CHL3\CHL3\obj\Debug\CHL3.pdb
